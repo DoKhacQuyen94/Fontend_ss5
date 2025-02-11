@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+img {
+  width: 150px;
+}
+p {
+  color: rgb(128, 255, 128);
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline dotted skyblue;
+}

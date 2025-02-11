@@ -1,0 +1,33 @@
+/* Cascading trong css */
+ul {
+  background-color: rebeccapurple;
+}
+ul {
+  /* Ghi đè lại thuộc tính CSS */
+  background-color: pink;
+}
+* {
+  font-size: 30px;
+}
+#second-li {
+  background-color: skyblue;
+  color: white;
+}
+.demo-class {
+  background-color: crimson;
+  color: white;
+}
+/* Giả sử
+Tạo kiểu dành cho văn bản qua các thuộc tính CSS
+font-size: 20px;
+font-weight: boild;
+text-decoảtion: underlaine; */
+.text-transform {
+  font-size: 20px;
+  font-weight: boild;
+  text-decoration: underline;
+}
+.first-content p {
+  background-color: goldenrod;
+  color: darkslateblue;
+}
