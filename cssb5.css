@@ -1,0 +1,14 @@
+h1 {
+  color: skyblue;
+}
+p {
+  font-weight: bold;
+}
+
+.table-01 {
+  background-color: yellow;
+  width: 10px;
+}
+.table-02 {
+  background-color: bisque;
+}
