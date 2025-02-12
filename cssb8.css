@@ -1,0 +1,38 @@
+* {
+  font-size: 20px;
+}
+.net_dut {
+  border: none;
+  border-top: 2px dashed #8c8c8c;
+  height: 0;
+  margin: 20px 0;
+}
+img {
+  text-align: left;
+  width: 95px;
+  border-radius: 10%;
+  height: 100px;
+  margin-left: auto;
+}
+.thong-tin {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 100%;
+  padding-bottom: 10px;
+}
+.date {
+  font-weight: lighter;
+  color: #8c8c8c;
+  font-size: 18px;
+}
+table {
+  width: 104%;
+}
+td {
+  width: auto;
+  vertical-align: top;
+}
+.content {
+  border-right: 2px solid gray;
+}
